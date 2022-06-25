@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
-<h3 align="center">I´m studying to become a machine learning engineer.</h3>
+<h3 align="center">I have a dream to be a machine learning engineer.</h3>
 <h4></h4>
 
 - 🌱 I’m currently learning **Pandas and Numpy**
